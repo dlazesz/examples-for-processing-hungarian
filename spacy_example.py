@@ -3,6 +3,8 @@
 
 # Install this.
 # !pip install https://github.com/oroszgy/spacy-hungarian-models/releases/download/hu_core_ud_lg-0.1.0/hu_core_ud_lg-0.1.0-py3-none-any.whl
+# Ensure: Spacy < 2.1
+# !pip install spacy==2.0.18
 
 import hu_core_ud_lg
 

@@ -2,6 +2,8 @@
 # -*- coding: utf-8, vim: expandtab:ts=4 -*-
 
 # Install this.
+# For CPU only usage (e.g. intalling PyTorch fails because old GPU) for Python 3.6: !pip install https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
+
 # !pip install stanfordnlp
 
 # Load this
